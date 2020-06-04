@@ -7,6 +7,10 @@ https://github.com/michellew179/responsive-portfolio
 
 https://michellew179.github.io/responsive-portfolio/
 
+Links to screenshots:
+
+https://github.com/michellew179/responsive-portfolio/tree/master/assets/screenshots
+
 
 
 *This project is not complete, and I will return to it to rework some of the media queries so the page functions to it's maximum potential.
